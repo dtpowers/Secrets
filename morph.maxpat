@@ -43,22 +43,9 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 323.5, 403.0, 42.0, 22.0 ],
+					"patching_rect" : [ 309.5, 392.0, 42.0, 22.0 ],
 					"style" : "",
-					"text" : "*~ 0.5"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"id" : "obj-3",
-					"maxclass" : "newobj",
-					"numinlets" : 2,
-					"numoutlets" : 1,
-					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 228.0, 370.0, 42.0, 22.0 ],
-					"style" : "",
-					"text" : "*~ 0.5"
+					"text" : "*~ 0.4"
 				}
 
 			}
@@ -151,15 +138,6 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-3", 0 ],
-					"disabled" : 0,
-					"hidden" : 0,
-					"source" : [ "obj-10", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
 					"destination" : [ "obj-7", 0 ],
 					"disabled" : 0,
 					"hidden" : 0,
@@ -169,10 +147,10 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-2", 0 ],
+					"destination" : [ "obj-7", 0 ],
 					"disabled" : 0,
 					"hidden" : 0,
-					"source" : [ "obj-3", 0 ]
+					"source" : [ "obj-10", 0 ]
 				}
 
 			}
@@ -220,13 +198,7 @@
 ,
 		"dependency_cache" : [ 			{
 				"name" : "convolve.maxpat",
-				"bootpath" : "D:/Max patches",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "delay.maxpat",
-				"bootpath" : "D:/Max patches",
+				"bootpath" : "D:/Max patches/Secrets",
 				"type" : "JSON",
 				"implicit" : 1
 			}

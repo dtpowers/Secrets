@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 42.0, 85.0, 1468.0, 713.0 ],
+		"rect" : [ 26.0, 85.0, 1468.0, 713.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -2557,7 +2557,6 @@
 					"destination" : [ "obj-8", 3 ],
 					"disabled" : 0,
 					"hidden" : 0,
-					"midpoints" : [ 110.5, 615.0, 76.5, 615.0 ],
 					"source" : [ "obj-25", 0 ]
 				}
 
@@ -2567,7 +2566,6 @@
 					"destination" : [ "obj-8", 2 ],
 					"disabled" : 0,
 					"hidden" : 0,
-					"midpoints" : [ 110.5, 615.0, 62.5, 615.0 ],
 					"source" : [ "obj-25", 0 ]
 				}
 
@@ -2587,7 +2585,6 @@
 					"destination" : [ "obj-8", 5 ],
 					"disabled" : 0,
 					"hidden" : 0,
-					"midpoints" : [ 182.5, 615.0, 104.5, 615.0 ],
 					"source" : [ "obj-27", 0 ]
 				}
 
@@ -2597,7 +2594,6 @@
 					"destination" : [ "obj-8", 4 ],
 					"disabled" : 0,
 					"hidden" : 0,
-					"midpoints" : [ 182.5, 615.0, 90.5, 615.0 ],
 					"source" : [ "obj-27", 0 ]
 				}
 
@@ -2715,7 +2711,6 @@
 					"destination" : [ "obj-8", 7 ],
 					"disabled" : 0,
 					"hidden" : 0,
-					"midpoints" : [ 270.0, 615.0, 132.5, 615.0 ],
 					"source" : [ "obj-36", 0 ]
 				}
 
@@ -2725,7 +2720,6 @@
 					"destination" : [ "obj-8", 6 ],
 					"disabled" : 0,
 					"hidden" : 0,
-					"midpoints" : [ 270.0, 615.0, 118.5, 615.0 ],
 					"source" : [ "obj-36", 0 ]
 				}
 
@@ -2832,13 +2826,13 @@
 ,
 		"dependency_cache" : [ 			{
 				"name" : "morph.maxpat",
-				"bootpath" : "D:/Max patches",
+				"bootpath" : "D:/Max patches/Secrets",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "convolve.maxpat",
-				"bootpath" : "D:/Max patches",
+				"bootpath" : "D:/Max patches/Secrets",
 				"type" : "JSON",
 				"implicit" : 1
 			}
